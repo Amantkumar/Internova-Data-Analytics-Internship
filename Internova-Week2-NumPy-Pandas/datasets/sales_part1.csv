@@ -1,0 +1,11 @@
+Order_ID,Product,Category,Region,Quantity,Unit_Price,Sales
+1001,Laptop,Electronics,West,2,65000,130000
+1002,Mouse,Accessories,North,10,800,8000
+1003,Keyboard,Accessories,West,6,1500,9000
+1004,Monitor,Electronics,South,3,12000,36000
+1005,Laptop,Electronics,North,1,65000,65000
+1006,Headphones,Accessories,West,8,2500,20000
+1007,Keyboard,Accessories,South,5,1500,7500
+1008,Mouse,Accessories,West,12,800,9600
+1009,Monitor,Electronics,North,4,12000,48000
+1010,Laptop,Electronics,South,2,65000,130000

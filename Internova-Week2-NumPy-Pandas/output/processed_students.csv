@@ -1,0 +1,21 @@
+Student_ID,Name,Gender,Department,Age,Maths,Python,Database,Attendance,City,Average_Marks,Performance
+101,Aarav,Male,Computer,20,85,90,88,92,Surat,87.66666666666667,Good
+102,Diya,Female,IT,21,92,89,94,95,Ahmedabad,91.66666666666667,Excellent
+103,Rohan,Male,Computer,20,76,72,75,78,Vadodara,74.33333333333333,Needs Improvement
+104,Anaya,Female,IT,22,88,91,86,88,Surat,88.33333333333333,Good
+105,Vivaan,Male,Data Science,21,95,94,96,97,Rajkot,95.0,Excellent
+106,Isha,Female,Computer,20,81,85,82,90,Surat,82.66666666666667,Good
+107,Arjun,Male,IT,22,79,80,78,82,Ahmedabad,79.0,Needs Improvement
+108,Meera,Female,Data Science,21,91,95,92,96,Vadodara,92.66666666666667,Excellent
+109,Kabir,Male,Computer,20,84,88,85,89,Surat,85.66666666666667,Good
+110,Aanya,Female,IT,23,73,70,74,75,Rajkot,72.33333333333333,Needs Improvement
+111,Rahul,Male,Computer,21,89,92,90,91,Surat,90.33333333333333,Excellent
+112,Sara,Female,IT,20,94,90,93,94,Ahmedabad,92.33333333333333,Excellent
+113,Aditya,Male,Computer,22,78,79,80,80,Vadodara,79.0,Needs Improvement
+114,Kiara,Female,IT,21,87,93,89,93,Surat,89.66666666666667,Good
+115,Dev,Male,Data Science,23,82,84,81,86,Rajkot,82.33333333333333,Good
+116,Myra,Female,Computer,20,96,97,95,98,Surat,96.0,Excellent
+117,Kunal,Male,IT,22,75,77,76,77,Ahmedabad,76.0,Needs Improvement
+118,Riya,Female,Data Science,21,90,91,88,92,Vadodara,89.66666666666667,Good
+119,Yash,Male,Computer,20,83,86,84,85,Surat,84.33333333333333,Good
+120,Nisha,Female,IT,22,93,95,91,96,Rajkot,93.0,Excellent

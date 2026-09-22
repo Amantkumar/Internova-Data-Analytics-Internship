@@ -1,0 +1,21 @@
+Student_ID,Name,Gender,Department,Age,Maths,Python,Database,Attendance,City
+101,Aarav,Male,Computer,20,85,90,88,92,Surat
+102,Diya,Female,IT,21,92,89,94,95,Ahmedabad
+103,Rohan,Male,Computer,20,76,72,75,78,Vadodara
+104,Anaya,Female,IT,22,88,91,86,88,Surat
+105,Vivaan,Male,Data Science,21,95,94,96,97,Rajkot
+106,Isha,Female,Computer,20,81,85,82,90,Surat
+107,Arjun,Male,IT,22,79,80,78,82,Ahmedabad
+108,Meera,Female,Data Science,21,91,95,92,96,Vadodara
+109,Kabir,Male,Computer,20,84,88,85,89,Surat
+110,Aanya,Female,IT,23,73,70,74,75,Rajkot
+111,Rahul,Male,Computer,21,89,92,90,91,Surat
+112,Sara,Female,IT,20,94,90,93,94,Ahmedabad
+113,Aditya,Male,Computer,22,78,79,80,80,Vadodara
+114,Kiara,Female,IT,21,87,93,89,93,Surat
+115,Dev,Male,Data Science,23,82,84,81,86,Rajkot
+116,Myra,Female,Computer,20,96,97,95,98,Surat
+117,Kunal,Male,IT,22,75,77,76,77,Ahmedabad
+118,Riya,Female,Data Science,21,90,91,88,92,Vadodara
+119,Yash,Male,Computer,20,83,86,84,85,Surat
+120,Nisha,Female,IT,22,93,95,91,96,Rajkot
