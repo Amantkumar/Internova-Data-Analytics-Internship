@@ -1,0 +1,8 @@
+Metric,Value
+Mean Sales,1621.9166666666667
+Median Sales,1000.0
+Mode Sales,700.0
+Variance,2127634.110644258
+Standard Deviation,1458.6411863937815
+Quantity-Sales Correlation,0.5023802687083032
+P(Sales > Median),0.49166666666666664
