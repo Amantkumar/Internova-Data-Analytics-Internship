@@ -1,0 +1,13 @@
+Sale_ID,Product,Category,Quantity,Unit_Price,Total_Sales
+1001,Laptop,Electronics,2,55000,110000
+1002,Mouse,Accessories,8,700,5600
+1003,Keyboard,Accessories,5,1200,6000
+1004,Monitor,Electronics,3,14000,42000
+1005,Laptop,Electronics,1,55000,55000
+1006,Headphones,Accessories,6,2500,15000
+1007,Printer,Office,2,12000,24000
+1008,Monitor,Electronics,4,14000,56000
+1009,Chair,Office,5,6500,32500
+1010,Laptop,Electronics,3,55000,165000
+1011,Mouse,Accessories,10,700,7000
+1012,Desk,Office,2,9000,18000

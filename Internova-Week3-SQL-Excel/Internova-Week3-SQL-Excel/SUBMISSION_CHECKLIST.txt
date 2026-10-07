@@ -1,0 +1,27 @@
+# WEEK 3 SUBMISSION CHECKLIST
+
+## SQL
+[✓] Task 1 — SELECT, specific columns, aliases
+[✓] Task 2 — WHERE, ORDER BY, COUNT, SUM, AVG, MIN, MAX
+[✓] Task 3 — GROUP BY and HAVING
+[✓] Task 4 — INNER JOIN, LEFT JOIN, RIGHT JOIN
+[✓] Task 5 — Two subquery problems
+
+## EXCEL
+[✓] Task 6 — Formatting, sorting and filtering
+[✓] Task 7 — Conditional formatting, IF, COUNTIF, SUMIF
+[✓] Task 8 — VLOOKUP and XLOOKUP
+[✓] Task 9 — Pivot-style summary and chart
+
+## FILES
+[✓] SQL scripts
+[✓] Excel workbook
+[✓] Datasets
+[✓] Output CSV files
+[✓] Screenshots/evidence
+[✓] README.md
+[✓] PDF report
+[✓] requirements.txt
+
+NOTE:
+If the evaluator specifically demands live MySQL Workbench/Excel UI screenshots, add those actual screenshots before submitting.
