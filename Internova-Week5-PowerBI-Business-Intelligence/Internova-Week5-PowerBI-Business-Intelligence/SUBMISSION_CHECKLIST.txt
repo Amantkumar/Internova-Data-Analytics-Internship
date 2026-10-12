@@ -1,0 +1,13 @@
+WEEK 5 SUBMISSION CHECKLIST
+
+[ ] Task 1 — Import tables + inspect data types
+[ ] Task 2 — Power Query cleaning
+[ ] Task 3 — Relationships/model
+[ ] Task 4 — 3+ DAX measures
+[ ] Task 5 — Column, line, donut, table/matrix, KPI
+[ ] Task 6 — 3 KPI cards + 4 visuals + 2 slicers
+[ ] Task 7 — 5 insights + 2 recommendations
+[ ] Save final .pbix
+[ ] Capture actual Power BI screenshots
+[ ] Add screenshots
+[ ] Submit GitHub / Google Drive / PDF

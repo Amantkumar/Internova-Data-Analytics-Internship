@@ -1,0 +1,11 @@
+Product_ID,Product,Category,Unit_Price
+P001,Laptop,Computers,65000
+P002,Monitor,Computers,18000
+P003,Keyboard,Accessories,2500
+P004,Mouse,Accessories,1200
+P005,Tablet,Mobile,28000
+P006,Phone,Mobile,35000
+P007,Headphones,Accessories,4500
+P008,Printer,Office,15000
+P009,Webcam,Accessories,3500
+P010,Router,Networking,4000
