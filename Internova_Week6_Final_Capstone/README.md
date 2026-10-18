@@ -70,3 +70,8 @@ Replace the placeholder with your own repository URL. Do not commit credentials.
 - [ ] Include at least five insights and two recommendations in the final report/presentation.
 - [ ] Make at least three meaningful commits and verify the GitHub repository.
 - [ ] Ensure no private credentials or unrelated files are included.
+## Git Workflow and Project Validation
+
+- Uploaded the Week 6 capstone project to the existing internship repository.
+- Organized datasets, Python source code, generated visualizations, reports, and presentation files.
+- Prepared the project for data analysis review and final submission.
