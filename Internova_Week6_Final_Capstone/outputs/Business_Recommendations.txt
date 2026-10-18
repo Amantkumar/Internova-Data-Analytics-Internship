@@ -1,0 +1,3 @@
+1. Maintain stock and service capacity for the highest-sales category and region, while monitoring stock-outs and margin rather than sales alone.
+2. Review the lowest-performing category, region, and customer segment; test a limited promotion or bundle and compare results against a baseline.
+3. Check discount levels and transaction values regularly so high revenue is not mistaken for high profitability.

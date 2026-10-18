@@ -1,0 +1,6 @@
+1. The cleaned dataset contains 120 transactions and total sales of ₹9,534,180.
+2. Average transaction value is ₹79,451.50; the highest transaction is ₹432,250 (S0032) and the lowest is ₹1,080 (S0086).
+3. Computers is the top sales category at ₹5,371,450.
+4. East is the leading region at ₹5,490,620.
+5. Corporate is the largest customer segment by sales at ₹4,168,450.
+6. Feb has the highest monthly sales at ₹3,023,670; Mar is lowest at ₹1,452,015.

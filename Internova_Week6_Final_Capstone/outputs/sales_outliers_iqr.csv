@@ -1,0 +1,8 @@
+Sale_ID,Date,Customer_ID,Product_ID,Quantity,Discount,Unit_Price,Sales_Amount,Month,Year,Month_Number,Customer_Name,Region,Segment,Product,Category
+S0020,2026-01-20,C012,P001,6,15.0,65000,331500.0,Jan,2026,1,Customer 12,East,Consumer,Laptop,Computers
+S0021,2026-01-21,C008,P001,6,0.0,65000,390000.0,Jan,2026,1,Customer 8,North,Consumer,Laptop,Computers
+S0029,2026-01-29,C004,P001,6,0.0,65000,390000.0,Jan,2026,1,Customer 4,East,Corporate,Laptop,Computers
+S0032,2026-02-01,C010,P001,7,5.0,65000,432250.0,Feb,2026,2,Customer 10,South,Corporate,Laptop,Computers
+S0057,2026-02-26,C012,P001,7,10.0,65000,409500.0,Feb,2026,2,Customer 12,East,Consumer,Laptop,Computers
+S0071,2026-03-12,C009,P001,7,15.0,65000,386750.0,Mar,2026,3,Customer 9,East,Corporate,Laptop,Computers
+S0102,2026-04-12,C005,P001,7,5.0,65000,432250.0,Apr,2026,4,Customer 5,East,Corporate,Laptop,Computers

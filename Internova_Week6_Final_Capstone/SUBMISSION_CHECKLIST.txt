@@ -1,0 +1,9 @@
+WEEK 6 SUBMISSION CHECKLIST
+[ ] README includes project overview, problem, dataset, tools, cleaning, EDA, charts, dashboard, insights, recommendations, conclusion.
+[ ] Review outputs/Key_Insights.txt and report values.
+[ ] Six charts are included in visualizations/.
+[ ] Actual Week 5 PBIX and screenshot are included.
+[ ] If dashboard changed, save a separate Week 6 PBIX and add its screenshot.
+[ ] At least 5 insights and 2 recommendations are presented.
+[ ] Make at least 3 meaningful Git commits.
+[ ] Confirm GitHub repo has README and project files.
